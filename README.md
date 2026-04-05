@@ -143,6 +143,7 @@ Linux / macOS
 Windows
 
 bookstore.exe
+
 ⚠️ LIMITATIONS
 
 Maximum 10 subcategories per category
@@ -160,3 +161,4 @@ No file storage (data is lost after program exit)
 📊 Use dynamic arrays for unlimited children
 
 🖥️ Develop GUI version
+
