@@ -79,10 +79,6 @@ Add a new category under an existing parent category
 
 Displays all categories in hierarchical (tree) format
 
-🔍 Search Category
-
-Finds a category using its name
-
 ✏️ Update Category
 
 Rename an existing category
