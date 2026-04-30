@@ -1,4 +1,5 @@
 📚 Online Bookstore Category Management System (C)
+
 📌 Overview
 
 This project is a tree-based category management system implemented in C. It simulates an online bookstore where categories and subcategories can be created, updated, searched, displayed, and deleted.
@@ -85,26 +86,46 @@ gcc bookstore.c -o bookstore
 Run:
 
 ./bookstore
+
 📂 File Structure
+
 📁 Online-Bookstore-C
+
  ├── bookstore.c
  └── README.md
+ 
 🛠️ Requirements
+
 C Compiler (GCC recommended)
+
 Basic knowledge of C and Data Structures
+
 ⚠️ Limitations
+
 Maximum 10 subcategories per category
+
 Uses simple string input (no spaces allowed in names)
+
 No file storage (data is lost after program exit)
+
 🌱 Future Improvements
+
 Support for spaces in category names
+
 File handling to save/load data
+
 GUI version
+
 Unlimited dynamic children using linked lists
+
 👨‍🎓 Learning Outcomes
+
 Tree Data Structure
+
 Recursion
+
 Dynamic Memory Allocation
+
 Pointer Handling in C
 
 📜 License
