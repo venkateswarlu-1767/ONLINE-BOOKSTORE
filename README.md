@@ -16,8 +16,6 @@ Each node can have multiple subcategories (children)
 
 📂 Display full category hierarchy (tree structure)
 
-🔍 Search for a category
-
 ✏️ Update category names
 
 ❌ Delete categories (with all subcategories)
